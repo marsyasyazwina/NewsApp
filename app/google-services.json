@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339551837683",
+    "project_id": "newsappidna",
+    "storage_bucket": "newsappidna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339551837683:android:3390d555d0c384b5a74686",
+        "android_client_info": {
+          "package_name": "com.marsya.idn.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339551837683-6jkh6renqdjdiso7op1583h61bb0019r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-Fp7R6eLCONc9AM1MhsPlN5pNjL3eis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339551837683-6jkh6renqdjdiso7op1583h61bb0019r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
